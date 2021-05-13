@@ -1,0 +1,14 @@
+/* CUSTOM CSS */ 
+
+section.jumbotron{
+	padding-top: 6rem;
+	background-color: #F979BC;
+}
+
+section#projects{
+	background-color:  #F979BC;
+}
+
+section{
+	padding-top: 5rem;
+}
